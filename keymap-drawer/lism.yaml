@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: ;, h: Mark Layer}
+  - {t: RETURN, h: Mark Layer}
   - Z
   - X
   - C
@@ -30,14 +30,14 @@ layers:
   - M
   - ','
   - .
-  - /
-  - {t: DEL, h: Device Layer}
-  - {t: Mouse Layer, h: toggle}
+  - BSPC
+  - {t: Ctl+LEFT CONTROL, h: Default Layer}
+  - '&mkp RCLK'
   - {t: TAB, h: Mouse Layer}
   - Sft+Gui+4
   - {t: SPACE, h: Number Layer}
-  - {t: ESC, h: Mark Layer}
-  - {t: BS, h: Mark Layer}
+  - {t: LEFT WIN, h: Mark Layer}
+  - {t: SPACE, h: Mark Layer}
   - {t: ENTER, h: Number Layer}
   - Sft+Gui+4
   - F7
@@ -135,8 +135,8 @@ layers:
   - (
   - )
   - ''
-  - '~'
-  - '!'
+  - '['
+  - ']'
   - '@'
   - '#'
   - $
@@ -145,8 +145,8 @@ layers:
   - '['
   - ']'
   - ''
-  - '`'
-  - _
+  - (
+  - )
   - ''''
   - '"'
   - {t: \, type: held}
@@ -203,7 +203,7 @@ layers:
   - ''
   - ''
   - Reset
-  - {t: Boot, type: held}
+  - Boot
   - BT CLR ALL
   - ''
   - ''
@@ -214,4 +214,4 @@ layers:
   - ''
   - ''
   - ''
-  - Boot
+  - {t: Boot, type: held}
