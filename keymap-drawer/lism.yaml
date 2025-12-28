@@ -31,16 +31,16 @@ layers:
   - ','
   - .
   - BSPC
-  - {t: Ctl+LEFT CONTROL, h: Default Layer}
-  - '&mkp RCLK'
-  - {t: TAB, h: Mouse Layer}
+  - LCTRL
+  - Mark Layer
+  - INT5
   - Sft+Gui+4
   - {t: SPACE, h: Number Layer}
-  - {t: LEFT WIN, h: Mark Layer}
   - {t: SPACE, h: Mark Layer}
-  - {t: ENTER, h: Number Layer}
+  - SPACE
+  - '&mmv MOVE_Y(100)'
   - Sft+Gui+4
-  - F7
+  - LANGUAGE 4
   - F10
   - {t: F12, h: Device Layer}
   Mouse Layer:
@@ -76,7 +76,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
