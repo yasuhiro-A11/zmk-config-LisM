@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: '-', h: Device Layer}
+  - '-'
   - Z
   - X
   - C
@@ -192,7 +192,7 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
+  - ''
   - Reset
   - ''
   - ''
@@ -214,4 +214,4 @@ layers:
   - ''
   - ''
   - ''
-  - Boot
+  - {t: Boot, type: held}
