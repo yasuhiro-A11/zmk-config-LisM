@@ -32,16 +32,16 @@ layers:
   - .
   - BSPC
   - LCTRL
-  - Mark Layer
+  - Number Layer
   - INT5
   - Sft+Gui+4
+  - {t: LSHIFT, h: Default Layer}
   - {t: SPACE, h: Number Layer}
-  - {t: SPACE, h: Mark Layer}
   - SPACE
   - '&mmv MOVE_Y(100)'
   - Sft+Gui+4
   - LANGUAGE 4
-  - F10
+  - {t: Mark Layer, h: toggle}
   - {t: F12, h: Device Layer}
   Mouse Layer:
   - {t: ▽, type: trans}
@@ -88,9 +88,9 @@ layers:
   - Gui+W
   Number Layer:
   - {t: ▽, type: trans}
-  - '7'
-  - '8'
-  - '9'
+  - '1'
+  - '2'
+  - '3'
   - '='
   - F1
   - F2
@@ -108,9 +108,9 @@ layers:
   - →
   - RGUI
   - /
-  - '1'
-  - '2'
-  - '3'
+  - '7'
+  - '8'
+  - '9'
   - +
   - '&mkp MB2'
   - ''
@@ -118,10 +118,10 @@ layers:
   - ''
   - RALT
   - {t: ▽, type: trans}
-  - .
-  - '0'
+  - {t: '0', type: held}
+  - PERIOD
   - {t: ▽, type: trans}
-  - {t: LANG2, type: held}
+  - LANG2
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LANG1
