@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: RETURN, h: Device Layer}
+  - {t: BS, h: Device Layer}
   - Z
   - X
   - C
@@ -30,7 +30,7 @@ layers:
   - M
   - ','
   - .
-  - BSPC
+  - ENTER
   - LCTRL
   - Mark Layer
   - LSHIFT
