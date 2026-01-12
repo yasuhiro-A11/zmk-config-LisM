@@ -33,14 +33,14 @@ layers:
   - BSPC
   - LCTRL
   - Mark Layer
-  - LANGUAGE 5
+  - LSHIFT
   - Sft+Gui+4
   - {t: LSHIFT, h: Number Layer}
   - {t: SPACE, h: Mark Layer}
   - SPACE
   - RSHIFT
   - '&mkp MB1'
-  - LANGUAGE 4
+  - '&mkp MB2'
   - {t: Mouse Layer, h: toggle}
   - {t: F12, h: Device Layer}
   Mouse Layer:
@@ -171,7 +171,7 @@ layers:
   - {t: ▽, type: trans}
   - ''
   - '-'
-  - ''
+  - '@'
   Device Layer:
   - ''
   - ''
