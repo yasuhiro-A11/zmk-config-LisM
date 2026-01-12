@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: RETURN, h: Mark Layer}
+  - {t: RETURN, h: Device Layer}
   - Z
   - X
   - C
@@ -32,16 +32,16 @@ layers:
   - .
   - BSPC
   - LCTRL
-  - Number Layer
+  - Mark Layer
   - INT5
   - Sft+Gui+4
-  - {t: LSHIFT, h: Default Layer}
-  - {t: SPACE, h: Number Layer}
+  - {t: LSHIFT, h: Number Layer}
+  - {t: SPACE, h: Mark Layer}
   - SPACE
-  - '&mmv MOVE_Y(100)'
+  - RSHIFT
   - Sft+Gui+4
   - LANGUAGE 4
-  - {t: Mark Layer, h: toggle}
+  - {t: Mouse Layer, h: toggle}
   - {t: F12, h: Device Layer}
   Mouse Layer:
   - {t: ▽, type: trans}
@@ -118,10 +118,10 @@ layers:
   - ''
   - RALT
   - {t: ▽, type: trans}
-  - {t: '0', type: held}
+  - '0'
   - PERIOD
   - {t: ▽, type: trans}
-  - LANG2
+  - {t: LANG2, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LANG1
@@ -137,9 +137,9 @@ layers:
   - ''
   - '['
   - ']'
-  - '@'
-  - '#'
-  - $
+  - '!'
+  - QUESTION
+  - '&'
   - '&emoji'
   - F5
   - '['
@@ -149,19 +149,19 @@ layers:
   - )
   - ''''
   - '"'
-  - {t: \, type: held}
+  - \
   - KP NUMLOCK
   - F11
   - '{'
   - '}'
   - ''
-  - '|'
-  - '%'
-  - ^
-  - '&'
+  - ''
+  - ''
+  - ','
+  - PERIOD
   - '*'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - '0'
   - {t: ▽, type: trans}
   - SPACE
@@ -170,8 +170,8 @@ layers:
   - ENTER
   - {t: ▽, type: trans}
   - ''
+  - '-'
   - ''
-  - F12
   Device Layer:
   - ''
   - ''
@@ -192,7 +192,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - {type: held}
   - Reset
   - ''
   - ''
@@ -214,4 +214,4 @@ layers:
   - ''
   - ''
   - ''
-  - {t: Boot, type: held}
+  - Boot
