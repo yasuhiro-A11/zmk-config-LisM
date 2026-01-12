@@ -52,8 +52,8 @@
             display-name = "Default Layer";
             bindings = <
 &kp Q      &kp W       &kp E         &kp R           &kp T                                   &kp Y        &kp U       &kp I         &kp O       &kp P
-&kp A      &mt LALT S  &mt LSHIFT D  &mt LGUI F      &mt LCTRL G                             &mt RCTRL H  &mt RGUI J  &mt RSHIFT K  &mt RALT L  &lt 4 RETURN
-&kp Z      &kp X       &kp C         &kp V           &kp B                                   &kp N        &kp M       &kp COMMA     &kp DOT     &kp BSPC
+&kp A      &mt LALT S  &mt LSHIFT D  &mt LGUI F      &mt LCTRL G                             &mt RCTRL H  &mt RGUI J  &mt RSHIFT K  &mt RALT L  &lt 4 BACKSPACE
+&kp Z      &kp X       &kp C         &kp V           &kp B                                   &kp N        &kp M       &kp COMMA     &kp DOT     &kp ENTER
 &kp LCTRL  &mo 3       &kp LSHIFT    &kp LS(LG(N4))  &lt 2 LSHIFT  &lt 3 SPACE    &kp SPACE  &kp RSHIFT   &mkp MB1    &mkp MB2      &tog 1      &lt 4 F12
             >;
 
