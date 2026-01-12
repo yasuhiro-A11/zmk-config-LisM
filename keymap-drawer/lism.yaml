@@ -59,7 +59,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Gui+↑
+  - ''
   - '&mkp MB1'
   - '&mkp MB2'
   - '&msc SCRL_UP'
