@@ -39,7 +39,7 @@ layers:
   - {t: SPACE, h: Mark Layer}
   - SPACE
   - RSHIFT
-  - Sft+Gui+4
+  - '&mkp MB1'
   - LANGUAGE 4
   - {t: Mouse Layer, h: toggle}
   - {t: F12, h: Device Layer}
