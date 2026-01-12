@@ -40,8 +40,8 @@ layers:
   - SPACE
   - RSHIFT
   - '&mkp MB1'
+  - '&mkp MB1'
   - '&mkp MB2'
-  - {t: Mouse Layer, h: toggle}
   - {t: F12, h: Device Layer}
   Mouse Layer:
   - {t: ▽, type: trans}
