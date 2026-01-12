@@ -118,8 +118,8 @@ layers:
   - ''
   - RALT
   - {t: ▽, type: trans}
+  - .
   - '0'
-  - PERIOD
   - {t: ▽, type: trans}
   - {t: LANG2, type: held}
   - {t: ▽, type: trans}
