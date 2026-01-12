@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: BS, h: Device Layer}
+  - {t: '-', h: Device Layer}
   - Z
   - X
   - C
@@ -30,15 +30,15 @@ layers:
   - M
   - ','
   - .
-  - ENTER
+  - Sft+RSHIFT
   - LCTRL
   - Mark Layer
   - LSHIFT
   - Sft+Gui+4
   - {t: LSHIFT, h: Number Layer}
   - {t: SPACE, h: Mark Layer}
-  - SPACE
-  - RSHIFT
+  - BS
+  - ENTER
   - '&mkp MB1'
   - '&mkp MB1'
   - '&mkp MB2'
