@@ -33,7 +33,7 @@ layers:
   - BSPC
   - LCTRL
   - Mark Layer
-  - INT5
+  - LANGUAGE 5
   - Sft+Gui+4
   - {t: LSHIFT, h: Number Layer}
   - {t: SPACE, h: Mark Layer}
