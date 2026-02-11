@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - {t: A, h: Mouse Layer}
+  - A
   - {t: S, h: LALT}
   - {t: D, h: LSHIFT}
   - {t: F, h: LGUI}
@@ -54,7 +54,7 @@ layers:
   - Gui+→
   - '&mkp MB3'
   - {t: ▽, type: trans}
-  - {t: '&mkp MB5', type: held}
+  - '&mkp MB5'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
