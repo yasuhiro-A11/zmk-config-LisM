@@ -98,9 +98,9 @@ layers:
   - F10
   - RSHIFT
   - '*'
-  - {t: '4', h: LALT}
-  - {t: '5', h: LSHIFT}
-  - {t: '6', h: LGUI}
+  - '4'
+  - '5'
+  - '6'
   - {t: '-', h: LCTRL}
   - '&mkp MB1'
   - ←
@@ -127,8 +127,8 @@ layers:
   - LANG1
   - {t: ▽, type: trans}
   - Sft+Ctl+TAB
-  - Ctl+TAB
-  - F12
+  - LANGUAGE 2
+  - LANG1
   Mark Layer:
   - Sft+Gui+4
   - F4
