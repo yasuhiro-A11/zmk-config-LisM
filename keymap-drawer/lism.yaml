@@ -44,8 +44,8 @@ layers:
   - '&mkp MB2'
   - {t: F12, h: Device Layer}
   Mouse Layer:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
